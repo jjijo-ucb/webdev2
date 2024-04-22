@@ -1,0 +1,46 @@
+.h {
+    background-color: #F1C40F;
+    padding: 20px;
+    color: #FEFDFD ;
+    text-align: center;
+}
+
+.h a{
+    text-decoration: none;
+    padding: 20px;
+    font-size: 18px;
+    font-family: poppins;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.navbar{
+   background-color: #F14307;
+    overflow: hidden;
+    text-align: center;
+}
+.navbar a{
+    padding: 10px 16px;
+    background-color: #F14307 ;
+    text-decoration: none;
+    font-size: 18px;
+    display: inline;
+    width: 60%;
+    border: 10px;
+    color: #FFFAF8 ;
+}
+.navbar a:hover{
+    background-color: #f98d00;
+    color: #2d2d2d;
+}
+
+.img1{
+    width: 20%;
+    height: 200px;
+    margin: 20px;
+
+}
+.img2{
+    position: absolute;
+    width: 30%;
+}
